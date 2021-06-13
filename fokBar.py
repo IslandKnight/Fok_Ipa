@@ -1,0 +1,3 @@
+
+class FokTab(object):
+    pass
